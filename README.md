@@ -1,3 +1,4 @@
+==大佬推荐的==
 # SLR
 isolated & continuous sign language recognition using CNN+LSTM/3D CNN/GCN/Encoder-Decoder
 
